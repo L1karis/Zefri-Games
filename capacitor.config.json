@@ -1,0 +1,7 @@
+{
+  "appId": "com.zefri.laststranger",
+  "appName": "Zefri",
+  "webDir": "www",
+  "backgroundColor": "#05070f",
+  "android": { "backgroundColor": "#05070f" }
+}
